@@ -1,1 +1,1 @@
-# Huong dan Git co ban
+Huong dan hoc Git
